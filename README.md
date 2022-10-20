@@ -1,1 +1,4 @@
 # Cryptocurrencies
+
+## Purpose
+The purpose of this analysis is to create a predictive model to accurately predict based on trends what Cryptocurrencies are good investments. First thing I needed to do was clean the data so that it is usable for an Unsupervised Machince Learning model. Once the data is cleaned I then scaled the data and adjusted it using PCA into three principal components. From here I created an elbow curve to determine what the best number of cluster would be for the model. I then created predictions and plotted them in a 3D scatterplot using the same three principal components. Finally I created a 2D scatter plot to visualize TotalCoinsMined and TotalCoinSupply. All in all this challenge helped me tremendously in understanding how Unsupervised Machine Learning models work and I am looking forward to putting it to use in the real world.
